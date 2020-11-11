@@ -95,9 +95,9 @@
                 <configuration>
                     <skipTests>true</skipTests>
                     <useSystemClassLoader>false</useSystemClassLoader>
-                    <environmentVariables>
-                        <insightly_apiKey>37055d71-8bcc-4325-8357-d4c584a9cc3d</insightly_apiKey>
-                    </environmentVariables>
+<!--                    <environmentVariables>-->
+<!--                        <envVar>test</envVar>-->
+<!--                    </environmentVariables>-->
                 </configuration>
             </plugin>
             <plugin>
